@@ -1,0 +1,6 @@
+Notes for /client/js folder
+---------------------------
+
+As expected this folder is for client javascript files.
+
+Thrid party javascript libraries live in /client/libs
